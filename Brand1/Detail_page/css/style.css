@@ -6,7 +6,7 @@
 }
 
 div img {
-  margin: 80px auto;
+  margin: 0px auto;
   display: block;
 }
 
@@ -28,4 +28,5 @@ div img {
 
 .fixed2:hover {
   opacity: 0.8;
+
 }
