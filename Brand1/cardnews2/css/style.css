@@ -5,6 +5,12 @@
   padding: 0;
 }
 
+#wrap {
+  min-width: 800px;
+  width: 800px;
+  margin: 0 auto;
+}
+
 div img {
   width: 100%;
   display: block;
@@ -100,4 +106,5 @@ div img {
 
 .fixed2:hover {
   opacity: 0.8;
+
 }
